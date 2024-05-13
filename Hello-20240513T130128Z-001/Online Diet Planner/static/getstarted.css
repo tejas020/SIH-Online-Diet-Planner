@@ -1,0 +1,33 @@
+body{background-color: rgba(52, 75, 14, 0.305);}
+#divget2{
+    border-radius: 10px;
+    margin-top: 25px;
+    height: 625px;
+    width: 40%;
+    background-color: #fff;
+    border: 2px solid #000;
+}
+.txtf{
+    margin-top: 25px;
+    width: 75%;
+    height: 50px;
+}
+.txta{
+    margin-top: 10px;
+    width: 75%;
+    height: 50px;
+}
+#dietalign{
+    margin-top: 20px;
+}
+#btnsubmit{
+    margin-top: 10px;
+    margin-left: 300px;
+    background-color: rgb(26,115,232);
+}
+#hsignin{
+    color:  rgb(26,115,232) ;
+}
+#hsubmit{
+    color: #d3d3d3;
+}
